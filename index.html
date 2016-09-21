@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Welcome</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <span><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta"> - {{ post.date | date: "%Y-%m-%d" }}</span></span>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p style="color: #999; margin-bottom: 0px; margin-top: 25px">Subscribe through this <a href="{{ "/feed.xml" | prepend: site.baseurl }}">link</a> :)</p>
+
+</div>
