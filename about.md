@@ -27,13 +27,13 @@ I am a Chinese traditional conseved man with the character of [INTP](https://en.
 
 My interests are:
 
-* reading 
-* sketch 
-* jogging
-* thinking
+* Music 
+* Running
+* Thinking
+* All activity can doing alone
 
-Now, I am studying Natural Language Processing (abbreviated as NLP), a tough but active research area. Sometimes, I must acknowlege that NLP (especially math behind it) is too difficult for me, and a bunch of aspects are really beyond my understanding.
+Now, I am studying Natural Language Processing (abbreviated as NLP), a tough but active research area. Sometimes, I must acknowlege that NLP (especially math behind it) is too difficult to learn, and a bunch of aspects are really beyond my understanding.
 
-Anyway, through the tough learning, I will figure out all the *magic* underhood, and expect a deeper understanding about math, language, or even, the running mechanism of the artificial world.
+Anyway, through the tough learning, I will figure out all the *magic* underhood, and I am expecting a deeper understanding about math, language, or even, the running mechanism of the artificial world.
 
 Contact me at: jianliu.cc#gmail.com
