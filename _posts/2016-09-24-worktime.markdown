@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "作息"
+title:  "作息(夏日)"
 date:   2016-09-24 19:00:00 +0800
 categories: life
 ---
@@ -25,4 +25,4 @@ categories: life
 
 11点回宿舍睡觉。
 
-完美的作息，自律，克制，挺难坚持。
+自律，克制，挺难坚持。
