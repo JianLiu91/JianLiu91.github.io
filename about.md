@@ -12,7 +12,7 @@ Jeliuu.cc is the name of this site created by me to record:
 * my (naive) thoughts
 * my (personal) stereotypes and prejudices
 
-In contrast with what I say in tangible reality, only my *real fealings* are posted here. So Jeliuu.cc can also be regarded as the "honest side" of myself. 
+In contrast with what I say in the tangible reality, only my *real fealings* are posted here. So Jeliuu.cc can also be seen as the "honest side" of myself. 
 
 Topics range from eating to artificial intelligence. Kind of ridiculous, I agree :)
 
@@ -25,15 +25,14 @@ I am a Chinese traditional conseved man with the character of [INTP](https://en.
 
 > INTPs are marked by a quiet, stoic, modest, and aloof exterior that masks strong creativity and enthusiasm for novel possibilities. Their weaknesses include poor organization, insensitivity to social niceties, and a tendency to get lost in abstractions.
 
-My interests are:
+My interests include:
 
-* Music 
+* Listening music 
 * Running
 * Thinking
-* All activity can doing alone
 
-Now, I am studying Natural Language Processing (abbreviated as NLP), a tough but active research area. Sometimes, I must acknowlege that NLP (especially math behind it) is too difficult to learn, and a bunch of aspects are really beyond my understanding.
+My major is Natural Language Processing (abbreviated as NLP), a tough but active research area. Sometimes, I must acknowlege that NLP (especially math behind it) is too difficult to learn, and a bunch of aspects are really beyond my understanding.
 
-Anyway, through the tough learning, I will figure out all the *magic* underhood, and I am expecting a deeper understanding about math, language, or even, the running mechanism of the artificial world.
+Anyway, through the tough learning, I except figuring out all the *magic* underhood, and a deeper understanding about math, language, or even, the running mechanism of the artificial world.
 
-Contact me at: jianliu.cc#gmail.com
+Free to contact me at: jianliu.cc#gmail.com
